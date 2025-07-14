@@ -1,0 +1,104 @@
+[
+  {
+    "uri": "amogus.jpg",
+    "width": 423,
+    "height": 640,
+    "type": "image"
+  },
+  {
+    "uri": "car-drive-search.png",
+    "width": 535,
+    "height": 969,
+    "type": "image"
+  },
+  {
+    "uri": "cat.jpg",
+    "width": 719,
+    "height": 1406,
+    "type": "image"
+  },
+  {
+    "uri": "empty-group.png",
+    "width": 1124,
+    "height": 740,
+    "type": "image"
+  },
+  {
+    "uri": "finding-nemo.png",
+    "width": 2654,
+    "height": 1480,
+    "type": "image"
+  },
+  {
+    "uri": "grover.jpg",
+    "width": 222,
+    "height": 227,
+    "type": "image"
+  },
+  {
+    "uri": "minecraft-renderdragon.jpg",
+    "width": 1242,
+    "height": 664,
+    "type": "image"
+  },
+  {
+    "uri": "satellite-search.png",
+    "width": 498,
+    "height": 375,
+    "type": "image"
+  },
+  {
+    "uri": "benjammins-search.gif",
+    "width": 498,
+    "height": 498,
+    "type": "gif"
+  },
+  {
+    "uri": "jameswebb-search.gif",
+    "width": 640,
+    "height": 526,
+    "type": "gif"
+  },
+  {
+    "uri": "jet-search.gif",
+    "width": 640,
+    "height": 360,
+    "type": "gif"
+  },
+  {
+    "uri": "monkey-surprised.gif",
+    "width": 512,
+    "height": 640,
+    "type": "gif"
+  },
+  {
+    "uri": "satellite-search.gif",
+    "width": 640,
+    "height": 394,
+    "type": "gif"
+  },
+  {
+    "uri": "spongebob-dance.gif",
+    "width": 640,
+    "height": 640,
+    "type": "gif"
+  },
+  {
+    "uri": "spongebob-search.gif",
+    "width": 640,
+    "height": 354,
+    "type": "gif"
+  },
+  {
+    "uri": "variouslocations-search.gif",
+    "width": 640,
+    "height": 480,
+    "type": "gif"
+  },
+  {
+    "uri": "weeknd-search.gif",
+    "width": 640,
+    "height": 356,
+    "type": "gif"
+  }
+]

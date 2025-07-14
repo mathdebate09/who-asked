@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Did I miss the part where I asked for your opinion?",
+    "context": ["unsolicited_opinion", "irrelevant_comment", "social_media_comeback"]
+  },
+  {
+    "text": "I've been searching for who asked. Even Google couldn't find them.",
+    "context": ["search_loader", "404_not_found", "irrelevant_comment"]
+  },
+  {
+    "text": "Hold on, let me check my notes... aaaaand, nobody asked.",
+    "context": ["playful_banter", "social_media_comeback", "unsolicited_opinion"]
+  },
+  {
+    "text": "Your opinion is noted. And filed under 'Things I Didn't Ask For'.",
+    "context": ["unsolicited_opinion", "irrelevant_comment"]
+  },
+  {
+    "text": "My ancestors fought for my right to speak, not for you to ask if anyone asked.",
+    "context": ["social_media_comeback", "playful_banter"]
+  },
+  {
+    "text": "404: The person who asked was not found.",
+    "context": ["404_not_found", "irrelevant_comment"]
+  },
+  {
+    "text": "Was there a 'please interrupt me' sign I was unaware of?",
+    "context": ["conversation_interjection", "unsolicited_opinion"]
+  },
+  {
+    "text": "I'm sorry, I must have mistaken you for someone who I asked.",
+    "context": ["unsolicited_opinion", "playful_banter"]
+  },
+  {
+    "text": "The voices in my head didn't ask, and they're the only ones I'm obligated to listen to.",
+    "context": ["playful_banter", "social_media_comeback"]
+  },
+  {
+    "text": "If I wanted your opinion, I would have given it to you.",
+    "context": ["unsolicited_opinion", "social_media_comeback"]
+  },
+  {
+    "text": "The council has reviewed your statement and has concluded that nobody, in fact, asked.",
+    "context": ["irrelevant_comment", "social_media_comeback", "playful_banter"]
+  },
+  {
+    "text": "Are you the human embodiment of an unskippable ad?",
+    "context": ["conversation_interjection", "irrelevant_comment"]
+  },
+  {
+    "text": "I'm currently accepting applications for 'who asked'. You are not qualified.",
+    "context": ["unsolicited_opinion", "social_media_comeback"]
+  },
+  {
+    "text": "Paging... paging anyone who asked... The line seems to be dead.",
+    "context": ["search_loader", "404_not_found", "playful_banter"]
+  },
+  {
+    "text": "Your contribution has been noted and will be ignored.",
+    "context": ["irrelevant_comment", "unsolicited_opinion"]
+  }
+]
