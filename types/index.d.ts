@@ -1,8 +1,12 @@
-// types/index.d.ts
-// export interface SomeInterface {
-//   // your interface definitions
-// }
+export interface Media {
+  uri: string;
+  tags: string[];
+  height: number;
+  width: number;
+  type: string;
+}
 
-export type SomeType = string | number;
-
-// etc.
+export interface Text {
+    text: string;
+    context: string[];
+}
