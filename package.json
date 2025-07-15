@@ -29,7 +29,10 @@
     "type": "git",
     "url": "https://github.com/mathdebate09/who-asked.git"
   },
-  "homepage": "https://github.com/mathdebate09/who-asked#readme",
+  "bugs": {
+    "url": "https://github.com/mathdebate09/who-asked/issues"
+  },
+  "homepage": "https://whoasked.js.org",
   "type": "module",
   "devDependencies": {
     "@eslint/js": "^9.31.0",
