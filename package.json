@@ -1,7 +1,7 @@
 {
   "name": "who-asked",
   "version": "1.0.0",
-  "description": "",
+  "description": "A tiny package to deliver sarcastic replies, memes, or GIFs for when no one asked — but your product still has to say something.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -13,17 +13,30 @@
     "test": "vitest",
     "prepublishOnly": "npm run build && npm test",
     "lint": "eslint . --ext .ts,.js",
-    "lint:fix": "eslint . --ext .ts,.js --fix"
+    "lint:fix": "eslint . --ext .ts,.js --fix",
+    "typecheck": "tsc --noEmit"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "who-asked",
+    "meme",
+    "roast",
+    "banter",
+    "copypasta"
+  ],
+  "author": "Jay Singh <work.jayssingh@gmail.com>",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathdebate09/who-asked.git"
+  },
+  "homepage": "https://github.com/mathdebate09/who-asked#readme",
   "type": "module",
   "devDependencies": {
     "@eslint/js": "^9.31.0",
     "@types/node": "^24.0.13",
     "@typescript-eslint/eslint-plugin": "^8.36.0",
     "@typescript-eslint/parser": "^8.36.0",
+    "@vitest/coverage-v8": "^3.2.4",
     "eslint": "^9.31.0",
     "globals": "^16.3.0",
     "tsup": "^8.5.0",
