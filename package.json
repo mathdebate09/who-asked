@@ -9,7 +9,7 @@
     "README.md"
   ],
   "scripts": {
-    "build": "npm run lint:fix && tsup src/index.ts --dts --format esm,cjs",
+    "build": "tsup src/index.ts --dts --format esm,cjs",
     "test": "vitest",
     "prepublishOnly": "npm run build && npm test",
     "lint": "eslint . --ext .ts,.js",
