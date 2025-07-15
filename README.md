@@ -1,12 +1,11 @@
-# React + Vite
+# [whoasked.js.org](nttps://whoasked.js.org)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Documentation for the meme Library - [who-asked](https://github.com/mathdebate09/who-asked), for delivering sarcastic replies, memes, or GIFs for when no one asked — but your product still has to say something
 
-Currently, two official plugins are available:
+## Contributing
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+who-asked entirely depends on the open-source contributions which are provided by the volunteers like yourself for the library to grow and thrive. We e welcome contributors of all experience levels and backgrounds to help maintain this awesome library and it's docs, if you'd like to contribute be sure to thoroughly read our [contributing guide](https://github.com/mathdebate09/who-asked/blob/main/CONTRIBUTING.md).
 
-## Expanding the ESLint configuration
+## Found an issue?
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+We're always actively looking for ways to improve the documentation, please check [issues](https://github.com/mathdebate09/who-asked/issues) or [open a new issue](https://github.com/mathdebate09/who-asked/issues)
