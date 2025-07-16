@@ -285,7 +285,6 @@ function DocsView() {
           <span>🚀</span>
           <span>Quick Start</span>
         </h2>
-        <p className="text-gray-600 dark:text-gray-400">So you're still reading, huh? Fine, here's how to use it:</p>
         <div className="bg-gray-50 dark:bg-zinc-800 rounded-lg p-4 sm:p-6 border border-gray-200 dark:border-zinc-700 overflow-x-auto">
           <pre className="text-xs sm:text-sm font-mono text-gray-800 dark:text-gray-200">
             {`import { whoAsked } from 'who-asked'
@@ -311,7 +310,6 @@ console.log(gif.uri) // Returns GIF URL`}
           <span>📚</span>
           <span>Function Reference</span>
         </h2>
-        <p className="text-gray-600 dark:text-gray-400">All the functions you didn't know you needed:</p>
         <div className="space-y-6">
           {/* Main Function */}
           <div className="bg-white dark:bg-zinc-800 rounded-lg p-4 sm:p-6 border border-gray-200 dark:border-zinc-700 shadow-sm">
@@ -412,7 +410,6 @@ console.log(gif.uri) // Returns GIF URL`}
           <span>💡</span>
           <span>Usage Examples</span>
         </h2>
-        <p className="text-gray-600 dark:text-gray-400">Because apparently code speaks louder than words:</p>
         <div className="space-y-4">
           <div className="bg-gray-50 dark:bg-zinc-800 rounded-lg p-4 sm:p-6 border border-gray-200 dark:border-zinc-700">
             <h3 className="font-semibold mb-3 text-gray-800 dark:text-gray-200">Basic Usage</h3>
